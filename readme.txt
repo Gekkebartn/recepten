@@ -1,1 +1,2 @@
-dit is een website met allerlei lekkere recepten
+Dit project is een website met lekkere recepten.
+Per recept worden ingrediënten en werkwijze vermeld.
